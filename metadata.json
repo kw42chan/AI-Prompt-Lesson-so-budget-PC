@@ -1,0 +1,6 @@
+{
+  "name": "Prompt Template Generator",
+  "description": "A high-performance interactive workshop to build, customize, preview, and copy structured professional prompt templates.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
